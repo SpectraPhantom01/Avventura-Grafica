@@ -1,0 +1,244 @@
+
+FneutraTreQuartiUno.png
+size: 1962,1920
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pigiama/braccio dx
+  rotate: false
+  xy: 316, 77
+  size: 288, 1074
+  orig: 290, 1077
+  offset: 1, 2
+  index: -1
+pigiama/braccio sx
+  rotate: false
+  xy: 2, 77
+  size: 312, 1074
+  orig: 315, 1077
+  offset: 2, 2
+  index: -1
+pigiama/corpo
+  rotate: false
+  xy: 1165, 500
+  size: 315, 845
+  orig: 317, 848
+  offset: 1, 2
+  index: -1
+pigiama/gamba dx 1
+  rotate: false
+  xy: 873, 134
+  size: 132, 338
+  orig: 301, 408
+  offset: 11, 69
+  index: -1
+pigiama/gamba dx 2
+  rotate: false
+  xy: 1758, 1267
+  size: 202, 651
+  orig: 204, 653
+  offset: 1, 1
+  index: -1
+pigiama/gamba sx 1
+  rotate: false
+  xy: 1007, 167
+  size: 122, 323
+  orig: 134, 404
+  offset: 1, 80
+  index: -1
+pigiama/gamba sx 2
+  rotate: false
+  xy: 482, 1270
+  size: 261, 648
+  orig: 264, 651
+  offset: 2, 1
+  index: -1
+sagra/braccio dx
+  rotate: false
+  xy: 1227, 1347
+  size: 213, 571
+  orig: 215, 573
+  offset: 1, 1
+  index: -1
+sagra/braccio sx
+  rotate: false
+  xy: 1758, 71
+  size: 198, 596
+  orig: 200, 598
+  offset: 1, 1
+  index: -1
+sagra/corpo
+  rotate: false
+  xy: 1482, 2
+  size: 274, 957
+  orig: 276, 959
+  offset: 1, 1
+  index: -1
+standard/CapelliTreQuartiRetro
+  rotate: false
+  xy: 2, 1153
+  size: 478, 765
+  orig: 480, 768
+  offset: 1, 2
+  index: -1
+pigiama/CapelliTreQuartiRetro
+  rotate: false
+  xy: 2, 1153
+  size: 478, 765
+  orig: 480, 768
+  offset: 1, 2
+  index: -1
+sagra/CapelliTreQuartiRetro
+  rotate: false
+  xy: 2, 1153
+  size: 478, 765
+  orig: 480, 768
+  offset: 1, 2
+  index: -1
+uni/CapelliTreQuartiRetro
+  rotate: false
+  xy: 2, 1153
+  size: 478, 765
+  orig: 480, 768
+  offset: 1, 2
+  index: -1
+standard/braccio dx
+  rotate: false
+  xy: 1012, 1347
+  size: 213, 571
+  orig: 215, 573
+  offset: 1, 1
+  index: -1
+uni/braccio dx
+  rotate: false
+  xy: 1012, 1347
+  size: 213, 571
+  orig: 215, 573
+  offset: 1, 1
+  index: -1
+standard/braccio sx
+  rotate: false
+  xy: 1758, 669
+  size: 198, 596
+  orig: 200, 598
+  offset: 1, 1
+  index: -1
+uni/braccio sx
+  rotate: false
+  xy: 1758, 669
+  size: 198, 596
+  orig: 200, 598
+  offset: 1, 1
+  index: -1
+standard/corpo
+  rotate: false
+  xy: 1482, 961
+  size: 274, 957
+  orig: 276, 959
+  offset: 1, 1
+  index: -1
+uni/corpo
+  rotate: false
+  xy: 1482, 961
+  size: 274, 957
+  orig: 276, 959
+  offset: 1, 1
+  index: -1
+standard/gamba dx 1
+  rotate: false
+  xy: 743, 39
+  size: 128, 433
+  orig: 133, 603
+  offset: 4, 169
+  index: -1
+sagra/gamba dx 1
+  rotate: false
+  xy: 743, 39
+  size: 128, 433
+  orig: 133, 603
+  offset: 4, 169
+  index: -1
+uni/gamba dx 1
+  rotate: false
+  xy: 743, 39
+  size: 128, 433
+  orig: 133, 603
+  offset: 4, 169
+  index: -1
+standard/gamba dx 2
+  rotate: false
+  xy: 606, 474
+  size: 349, 794
+  orig: 351, 796
+  offset: 1, 1
+  index: -1
+sagra/gamba dx 2
+  rotate: false
+  xy: 606, 474
+  size: 349, 794
+  orig: 351, 796
+  offset: 1, 1
+  index: -1
+uni/gamba dx 2
+  rotate: false
+  xy: 606, 474
+  size: 349, 794
+  orig: 351, 796
+  offset: 1, 1
+  index: -1
+standard/gamba sx 1
+  rotate: false
+  xy: 606, 18
+  size: 135, 454
+  orig: 295, 610
+  offset: 158, 154
+  index: -1
+sagra/gamba sx 1
+  rotate: false
+  xy: 606, 18
+  size: 135, 454
+  orig: 295, 610
+  offset: 158, 154
+  index: -1
+uni/gamba sx 1
+  rotate: false
+  xy: 606, 18
+  size: 135, 454
+  orig: 295, 610
+  offset: 158, 154
+  index: -1
+standard/gamba sx 2
+  rotate: false
+  xy: 957, 492
+  size: 206, 804
+  orig: 208, 806
+  offset: 1, 1
+  index: -1
+sagra/gamba sx 2
+  rotate: false
+  xy: 957, 492
+  size: 206, 804
+  orig: 208, 806
+  offset: 1, 1
+  index: -1
+uni/gamba sx 2
+  rotate: false
+  xy: 957, 492
+  size: 206, 804
+  orig: 208, 806
+  offset: 1, 1
+  index: -1
+uni/borsa
+  rotate: false
+  xy: 1131, 207
+  size: 124, 283
+  orig: 124, 284
+  offset: 0, 1
+  index: -1
+uni/cinta borsa
+  rotate: false
+  xy: 745, 1298
+  size: 265, 620
+  orig: 265, 654
+  offset: 0, 33
+  index: -1

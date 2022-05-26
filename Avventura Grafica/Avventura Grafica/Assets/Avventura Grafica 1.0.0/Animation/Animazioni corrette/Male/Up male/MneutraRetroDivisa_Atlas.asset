@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+  m_Name: MneutraRetroDivisa_Atlas
+  m_EditorClassIdentifier: 
+  atlasFile: {fileID: 4900000, guid: d16936a86cd485149816e96bee4f1077, type: 3}
+  materials:
+  - {fileID: 2100000, guid: 2095fa4f15b27354db9778bff52bddc9, type: 2}
+  - {fileID: 2100000, guid: 19040e17d4735144daa4488472b3be7a, type: 2}

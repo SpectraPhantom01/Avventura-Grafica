@@ -1,0 +1,272 @@
+
+FneutraProfiloPezzi.png
+size: 1755,1263
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pigiama/braccio dx
+  rotate: false
+  xy: 1068, 13
+  size: 113, 580
+  orig: 113, 581
+  offset: 0, 0
+  index: -1
+pigiama/braccio sx
+  rotate: false
+  xy: 1183, 13
+  size: 113, 580
+  orig: 113, 581
+  offset: 0, 0
+  index: -1
+pigiama/corpo
+  rotate: false
+  xy: 532, 557
+  size: 234, 704
+  orig: 234, 704
+  offset: 0, 0
+  index: -1
+pigiama/gamba dx 1
+  rotate: false
+  xy: 317, 11
+  size: 165, 504
+  orig: 166, 504
+  offset: 1, 0
+  index: -1
+pigiama/gamba dx 2
+  rotate: false
+  xy: 1201, 613
+  size: 214, 648
+  orig: 217, 649
+  offset: 0, 0
+  index: -1
+pigiama/gamba sx 2
+  rotate: false
+  xy: 1201, 613
+  size: 214, 648
+  orig: 217, 649
+  offset: 0, 0
+  index: -1
+pigiama/gamba sx 1
+  rotate: false
+  xy: 484, 11
+  size: 165, 504
+  orig: 166, 504
+  offset: 1, 0
+  index: -1
+sagra/braccio dx
+  rotate: false
+  xy: 1298, 46
+  size: 106, 565
+  orig: 106, 575
+  offset: 0, 10
+  index: -1
+sagra/braccio sx
+  rotate: false
+  xy: 1406, 46
+  size: 106, 565
+  orig: 106, 575
+  offset: 0, 10
+  index: -1
+sagra/corpo
+  rotate: false
+  xy: 110, 2
+  size: 205, 513
+  orig: 205, 514
+  offset: 0, 0
+  index: -1
+standard/braccio dx
+  rotate: false
+  xy: 2, 156
+  size: 106, 1105
+  orig: 108, 1110
+  offset: 1, 3
+  index: -1
+standard/braccio sx
+  rotate: false
+  xy: 2, 156
+  size: 106, 1105
+  orig: 108, 1110
+  offset: 1, 3
+  index: -1
+uni/braccio dx
+  rotate: false
+  xy: 2, 156
+  size: 106, 1105
+  orig: 108, 1110
+  offset: 1, 3
+  index: -1
+uni/braccio sx
+  rotate: false
+  xy: 2, 156
+  size: 106, 1105
+  orig: 108, 1110
+  offset: 1, 3
+  index: -1
+standard/capelli
+  rotate: false
+  xy: 110, 517
+  size: 420, 744
+  orig: 422, 746
+  offset: 1, 1
+  index: -1
+pigiama/capelli
+  rotate: false
+  xy: 110, 517
+  size: 420, 744
+  orig: 422, 746
+  offset: 1, 1
+  index: -1
+sagra/capelli
+  rotate: false
+  xy: 110, 517
+  size: 420, 744
+  orig: 422, 746
+  offset: 1, 1
+  index: -1
+uni/capelli
+  rotate: false
+  xy: 110, 517
+  size: 420, 744
+  orig: 422, 746
+  offset: 1, 1
+  index: -1
+standard/corpo
+  rotate: false
+  xy: 768, 593
+  size: 269, 668
+  orig: 271, 676
+  offset: 1, 1
+  index: -1
+uni/corpo
+  rotate: false
+  xy: 768, 593
+  size: 269, 668
+  orig: 271, 676
+  offset: 1, 1
+  index: -1
+standard/gamba dx 1
+  rotate: false
+  xy: 1600, 764
+  size: 153, 497
+  orig: 172, 549
+  offset: 1, 1
+  index: -1
+sagra/gamba dx 1
+  rotate: false
+  xy: 1600, 764
+  size: 153, 497
+  orig: 172, 549
+  offset: 1, 1
+  index: -1
+sagra/gamba sx 1
+  rotate: false
+  xy: 1600, 764
+  size: 153, 497
+  orig: 172, 549
+  offset: 1, 1
+  index: -1
+standard/gamba sx 1
+  rotate: false
+  xy: 1600, 764
+  size: 153, 497
+  orig: 172, 549
+  offset: 1, 1
+  index: -1
+uni/gamba dx 1
+  rotate: false
+  xy: 1600, 764
+  size: 153, 497
+  orig: 172, 549
+  offset: 1, 1
+  index: -1
+uni/gamba sx 1
+  rotate: false
+  xy: 1600, 764
+  size: 153, 497
+  orig: 172, 549
+  offset: 1, 1
+  index: -1
+standard/gamba dx 2
+  rotate: false
+  xy: 1417, 640
+  size: 181, 621
+  orig: 183, 1075
+  offset: 1, 1
+  index: -1
+sagra/gamba dx 2
+  rotate: false
+  xy: 1417, 640
+  size: 181, 621
+  orig: 183, 1075
+  offset: 1, 1
+  index: -1
+sagra/gamba sx 2
+  rotate: false
+  xy: 1417, 640
+  size: 181, 621
+  orig: 183, 1075
+  offset: 1, 1
+  index: -1
+standard/gamba sx 2
+  rotate: false
+  xy: 1417, 640
+  size: 181, 621
+  orig: 183, 1075
+  offset: 1, 1
+  index: -1
+uni/gamba dx 2
+  rotate: false
+  xy: 1417, 640
+  size: 181, 621
+  orig: 183, 1075
+  offset: 1, 1
+  index: -1
+uni/gamba sx 2
+  rotate: false
+  xy: 1417, 640
+  size: 181, 621
+  orig: 183, 1075
+  offset: 1, 1
+  index: -1
+standard/testa
+  rotate: false
+  xy: 651, 23
+  size: 415, 532
+  orig: 417, 534
+  offset: 1, 1
+  index: -1
+pigiama/testa
+  rotate: false
+  xy: 651, 23
+  size: 415, 532
+  orig: 417, 534
+  offset: 1, 1
+  index: -1
+sagra/testa
+  rotate: false
+  xy: 651, 23
+  size: 415, 532
+  orig: 417, 534
+  offset: 1, 1
+  index: -1
+uni/testa
+  rotate: false
+  xy: 651, 23
+  size: 415, 532
+  orig: 417, 534
+  offset: 1, 1
+  index: -1
+uni/borsa
+  rotate: false
+  xy: 1514, 373
+  size: 199, 265
+  orig: 200, 265
+  offset: 1, 0
+  index: -1
+uni/cinta borsa
+  rotate: false
+  xy: 1039, 595
+  size: 160, 666
+  orig: 161, 673
+  offset: 1, 0
+  index: -1

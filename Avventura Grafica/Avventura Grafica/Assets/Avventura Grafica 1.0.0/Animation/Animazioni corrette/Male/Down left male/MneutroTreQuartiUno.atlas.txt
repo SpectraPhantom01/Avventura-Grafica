@@ -1,0 +1,250 @@
+
+MneutroTreQuartiUno.png
+size: 1956,1997
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pigiama/gamba dx 1
+  rotate: false
+  xy: 582, 1458
+  size: 163, 537
+  orig: 163, 537
+  offset: 0, 0
+  index: -1
+pigiama/gamba dx 2
+  rotate: false
+  xy: 789, 746
+  size: 282, 707
+  orig: 282, 708
+  offset: 0, 0
+  index: -1
+pigiama/gamba sx 1
+  rotate: false
+  xy: 1117, 1444
+  size: 153, 551
+  orig: 154, 551
+  offset: 0, 0
+  index: -1
+pigiama/gamba sx 2
+  rotate: false
+  xy: 2, 913
+  size: 225, 672
+  orig: 226, 672
+  offset: 1, 0
+  index: -1
+sagra/braccio dx
+  rotate: false
+  xy: 2, 2
+  size: 212, 909
+  orig: 226, 915
+  offset: 0, 0
+  index: -1
+sagra/corpo
+  rotate: false
+  xy: 1613, 479
+  size: 341, 876
+  orig: 343, 877
+  offset: 1, 1
+  index: -1
+standard/braccio dx
+  rotate: false
+  xy: 1073, 550
+  size: 194, 892
+  orig: 194, 892
+  offset: 0, 0
+  index: -1
+uni/braccio dx
+  rotate: false
+  xy: 1073, 550
+  size: 194, 892
+  orig: 194, 892
+  offset: 0, 0
+  index: -1
+standard/corpo
+  rotate: false
+  xy: 1269, 506
+  size: 342, 874
+  orig: 345, 876
+  offset: 2, 1
+  index: -1
+uni/corpo
+  rotate: false
+  xy: 1269, 506
+  size: 342, 874
+  orig: 345, 876
+  offset: 2, 1
+  index: -1
+standard/gamba dx 1
+  rotate: false
+  xy: 290, 1479
+  size: 148, 516
+  orig: 150, 518
+  offset: 1, 1
+  index: -1
+sagra/gamba dx 1
+  rotate: false
+  xy: 290, 1479
+  size: 148, 516
+  orig: 150, 518
+  offset: 1, 1
+  index: -1
+uni/gamba dx 1
+  rotate: false
+  xy: 290, 1479
+  size: 148, 516
+  orig: 150, 518
+  offset: 1, 1
+  index: -1
+standard/gamba dx 2
+  rotate: false
+  xy: 547, 777
+  size: 240, 676
+  orig: 242, 678
+  offset: 1, 1
+  index: -1
+sagra/gamba dx 2
+  rotate: false
+  xy: 547, 777
+  size: 240, 676
+  orig: 242, 678
+  offset: 1, 1
+  index: -1
+standard/gamba sx 1
+  rotate: false
+  xy: 440, 1461
+  size: 140, 534
+  orig: 140, 535
+  offset: 0, 1
+  index: -1
+sagra/gamba sx 1
+  rotate: false
+  xy: 440, 1461
+  size: 140, 534
+  orig: 140, 535
+  offset: 0, 1
+  index: -1
+uni/gamba sx 1
+  rotate: false
+  xy: 440, 1461
+  size: 140, 534
+  orig: 140, 535
+  offset: 0, 1
+  index: -1
+standard/gamba sx 2
+  rotate: false
+  xy: 1692, 1357
+  size: 176, 638
+  orig: 176, 638
+  offset: 0, 0
+  index: -1
+sagra/gamba sx 2
+  rotate: false
+  xy: 1692, 1357
+  size: 176, 638
+  orig: 176, 638
+  offset: 0, 0
+  index: -1
+standard/testa
+  rotate: false
+  xy: 747, 1455
+  size: 368, 540
+  orig: 369, 540
+  offset: 1, 0
+  index: -1
+pigiama/testa
+  rotate: false
+  xy: 747, 1455
+  size: 368, 540
+  orig: 369, 540
+  offset: 1, 0
+  index: -1
+sagra/testa
+  rotate: false
+  xy: 747, 1455
+  size: 368, 540
+  orig: 369, 540
+  offset: 1, 0
+  index: -1
+uni/testa
+  rotate: false
+  xy: 747, 1455
+  size: 368, 540
+  orig: 369, 540
+  offset: 1, 0
+  index: -1
+uni/borsa
+  rotate: false
+  xy: 2, 1587
+  size: 286, 408
+  orig: 288, 410
+  offset: 1, 1
+  index: -1
+uni/cinta borsa
+  rotate: false
+  xy: 229, 797
+  size: 316, 662
+  orig: 316, 662
+  offset: 0, 0
+  index: -1
+uni/gamba dx 2
+  rotate: false
+  xy: 1272, 1407
+  size: 240, 588
+  orig: 242, 678
+  offset: 1, 1
+  index: -1
+uni/gamba sx 2
+  rotate: false
+  xy: 1514, 1382
+  size: 176, 613
+  orig: 176, 638
+  offset: 0, 0
+  index: -1
+
+MneutroTreQuartiUno2.png
+size: 1248,966
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pigiama/braccio dx
+  rotate: false
+  xy: 341, 57
+  size: 240, 907
+  orig: 240, 907
+  offset: 0, 0
+  index: -1
+pigiama/braccio sx
+  rotate: false
+  xy: 817, 23
+  size: 222, 941
+  orig: 223, 958
+  offset: 0, 15
+  index: -1
+pigiama/corpo
+  rotate: false
+  xy: 2, 75
+  size: 337, 889
+  orig: 337, 889
+  offset: 0, 0
+  index: -1
+sagra/braccio sx
+  rotate: false
+  xy: 583, 2
+  size: 232, 962
+  orig: 233, 977
+  offset: 1, 15
+  index: -1
+standard/braccio sx
+  rotate: false
+  xy: 1041, 28
+  size: 205, 936
+  orig: 205, 951
+  offset: 0, 15
+  index: -1
+uni/braccio sx
+  rotate: false
+  xy: 1041, 28
+  size: 205, 936
+  orig: 205, 951
+  offset: 0, 15
+  index: -1

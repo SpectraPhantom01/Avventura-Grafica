@@ -1,0 +1,244 @@
+
+MneutraProfiloDiviso.png
+size: 1937,1612
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Uni/Borsa
+  rotate: false
+  xy: 1576, 1199
+  size: 359, 411
+  orig: 359, 412
+  offset: 0, 0
+  index: -1
+Uni/Cinta borsa
+  rotate: false
+  xy: 1127, 2
+  size: 308, 794
+  orig: 309, 795
+  offset: 0, 1
+  index: -1
+pigiama/Corpo
+  rotate: false
+  xy: 2, 686
+  size: 293, 924
+  orig: 294, 924
+  offset: 0, 0
+  index: -1
+pigiama/braccio dx
+  rotate: false
+  xy: 1186, 806
+  size: 201, 804
+  orig: 201, 804
+  offset: 0, 0
+  index: -1
+pigiama/braccio sx
+  rotate: false
+  xy: 1186, 806
+  size: 201, 804
+  orig: 201, 804
+  offset: 0, 0
+  index: -1
+pigiama/coscia dx
+  rotate: false
+  xy: 1437, 244
+  size: 132, 564
+  orig: 133, 567
+  offset: 1, 1
+  index: -1
+pigiama/coscia sx
+  rotate: false
+  xy: 924, 207
+  size: 201, 587
+  orig: 202, 589
+  offset: 1, 1
+  index: -1
+pigiama/gamba dx
+  rotate: false
+  xy: 237, 58
+  size: 233, 626
+  orig: 233, 626
+  offset: 0, 0
+  index: -1
+pigiama/gamba sx
+  rotate: false
+  xy: 472, 8
+  size: 225, 753
+  orig: 225, 753
+  offset: 0, 0
+  index: -1
+sagra/Corpo
+  rotate: false
+  xy: 559, 766
+  size: 260, 844
+  orig: 260, 846
+  offset: 0, 0
+  index: -1
+sagra/braccio dx
+  rotate: false
+  xy: 1005, 798
+  size: 179, 812
+  orig: 179, 812
+  offset: 0, 0
+  index: -1
+sagra/braccio sx
+  rotate: false
+  xy: 1005, 798
+  size: 179, 812
+  orig: 179, 812
+  offset: 0, 0
+  index: -1
+standard/Corpo
+  rotate: false
+  xy: 297, 763
+  size: 260, 847
+  orig: 261, 849
+  offset: 0, 0
+  index: -1
+Uni/Corpo
+  rotate: false
+  xy: 297, 763
+  size: 260, 847
+  orig: 261, 849
+  offset: 0, 0
+  index: -1
+standard/Testa
+  rotate: false
+  xy: 1576, 693
+  size: 351, 504
+  orig: 351, 504
+  offset: 0, 0
+  index: -1
+Uni/Testa
+  rotate: false
+  xy: 1576, 693
+  size: 351, 504
+  orig: 351, 504
+  offset: 0, 0
+  index: -1
+pigiama/Testa
+  rotate: false
+  xy: 1576, 693
+  size: 351, 504
+  orig: 351, 504
+  offset: 0, 0
+  index: -1
+sagra/Testa
+  rotate: false
+  xy: 1576, 693
+  size: 351, 504
+  orig: 351, 504
+  offset: 0, 0
+  index: -1
+standard/braccio dx
+  rotate: false
+  xy: 821, 796
+  size: 182, 814
+  orig: 182, 814
+  offset: 0, 0
+  index: -1
+Uni/braccio dx
+  rotate: false
+  xy: 821, 796
+  size: 182, 814
+  orig: 182, 814
+  offset: 0, 0
+  index: -1
+standard/braccio sx
+  rotate: false
+  xy: 1389, 810
+  size: 185, 800
+  orig: 185, 800
+  offset: 0, 0
+  index: -1
+Uni/braccio sx
+  rotate: false
+  xy: 1389, 810
+  size: 185, 800
+  orig: 185, 800
+  offset: 0, 0
+  index: -1
+standard/coscia dx
+  rotate: false
+  xy: 1768, 127
+  size: 131, 564
+  orig: 133, 567
+  offset: 1, 1
+  index: -1
+Uni/coscia dx
+  rotate: false
+  xy: 1768, 127
+  size: 131, 564
+  orig: 133, 567
+  offset: 1, 1
+  index: -1
+sagra/coscia dx
+  rotate: false
+  xy: 1768, 127
+  size: 131, 564
+  orig: 133, 567
+  offset: 1, 1
+  index: -1
+standard/coscia sx
+  rotate: false
+  xy: 1571, 104
+  size: 195, 587
+  orig: 202, 589
+  offset: 1, 1
+  index: -1
+Uni/coscia sx
+  rotate: false
+  xy: 1571, 104
+  size: 195, 587
+  orig: 202, 589
+  offset: 1, 1
+  index: -1
+sagra/coscia sx
+  rotate: false
+  xy: 1571, 104
+  size: 195, 587
+  orig: 202, 589
+  offset: 1, 1
+  index: -1
+standard/gamba dx
+  rotate: false
+  xy: 2, 58
+  size: 233, 626
+  orig: 233, 626
+  offset: 0, 0
+  index: -1
+Uni/gamba dx
+  rotate: false
+  xy: 2, 58
+  size: 233, 626
+  orig: 233, 626
+  offset: 0, 0
+  index: -1
+sagra/gamba dx
+  rotate: false
+  xy: 2, 58
+  size: 233, 626
+  orig: 233, 626
+  offset: 0, 0
+  index: -1
+standard/gamba sx
+  rotate: false
+  xy: 699, 20
+  size: 223, 744
+  orig: 232, 744
+  offset: 9, 0
+  index: -1
+Uni/gamba sx
+  rotate: false
+  xy: 699, 20
+  size: 223, 744
+  orig: 232, 744
+  offset: 9, 0
+  index: -1
+sagra/gamba sx
+  rotate: false
+  xy: 699, 20
+  size: 223, 744
+  orig: 232, 744
+  offset: 9, 0
+  index: -1

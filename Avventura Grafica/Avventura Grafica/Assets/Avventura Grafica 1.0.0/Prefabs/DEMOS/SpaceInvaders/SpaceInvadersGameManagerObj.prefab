@@ -1,0 +1,106 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8268932942825894285
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8268932942825894287}
+  - component: {fileID: 8268932942825894284}
+  m_Layer: 0
+  m_Name: SpaceInvadersGameManagerObj
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8268932942825894287
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8268932942825894285}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8268932942825894284
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8268932942825894285}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 27edfc4cbd43bb24aaa3998252731ff3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  playerPrefab: {fileID: 2248133913543318671, guid: 4fe96431d55930246aa0904504392c24,
+    type: 3}
+  nemico1Prefab: {fileID: 1210275171287083983, guid: 570b7a9d2c97c4d4299a59327b35cbd3,
+    type: 3}
+  nemico2Prefab: {fileID: 7548110800763223593, guid: 15c968504ee8599448ffd5614995f8c3,
+    type: 3}
+  nemico3Prefab: {fileID: 4222599439392711084, guid: 5e91e29190e0af242989fe522cc19d85,
+    type: 3}
+  nemico4Prefab: {fileID: 5904761463772097630, guid: 4ffa243122057a4458764a28eb7edf13,
+    type: 3}
+  nemicoSpecialePrefab: {fileID: 7563742978745918755, guid: 0c81a13184e17e84f8eb0c6d1f0a25d1,
+    type: 3}
+  proiettilePlayerPrefab: {fileID: 3625041394891855993, guid: f7283d3d201759e48a0897d691ba5143,
+    type: 3}
+  proiettileNemicoPrefab: {fileID: 3625041394891855993, guid: 206cfcd0c4edf85498cc5b14a8448852,
+    type: 3}
+  torreDiDifesaPrefab: {fileID: 3431359527468875197, guid: 56498921e1459e54391679145352d4ae,
+    type: 3}
+  spriteVitaUIPrefab: {fileID: 521106439073667073, guid: 4ebae2efbf6112540a8bf9370570a617,
+    type: 3}
+  pivotMatriceNemici: {fileID: 0}
+  pivotTorriDiDifesa: {fileID: 0}
+  pivotPlayer: {fileID: 0}
+  pivotNemicoSpeciale: {fileID: 0}
+  pivotViteUI: {fileID: 0}
+  baseplayerObject: {fileID: 0}
+  canvasObject: {fileID: 0}
+  panel: {fileID: 0}
+  mainCameraObject: {fileID: 0}
+  quantitaFile: 4
+  quantitaColonne: 12
+  numeroVite: 3
+  quantitaTests: 3
+  tempoMovimentoMatrice: 1
+  tempoMaxAspettaSparo: 3
+  tempoSpawnNemicoSpeciale: 10
+  OnGameOver:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 0}
+        m_MethodName: SetActive
+        m_Mode: 6
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 1
+        m_CallState: 2
+      - m_Target: {fileID: 0}
+        m_MethodName: SetActive
+        m_Mode: 6
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 1
+        m_CallState: 2

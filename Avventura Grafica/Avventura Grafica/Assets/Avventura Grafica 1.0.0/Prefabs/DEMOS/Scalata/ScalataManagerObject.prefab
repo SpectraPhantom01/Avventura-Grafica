@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &218286234931873820
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 218286234931873822}
+  - component: {fileID: 218286234931873821}
+  m_Layer: 0
+  m_Name: ScalataManagerObject
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &218286234931873822
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 218286234931873820}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 1.1062028, y: -0.4338603, z: 63.024414}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &218286234931873821
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 218286234931873820}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a4469b45274d29479b3a2282d57f8ac, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  letteraAPrefab: {fileID: 6245169308957404779, guid: ead66a396005b5242b5f6defd97bf338,
+    type: 3}
+  letteraSPrefab: {fileID: 1027614680571561784, guid: 6900ea80fe48b9c46bf699ea2480789b,
+    type: 3}
+  letteraDPrefab: {fileID: 5122930645490873553, guid: 1c4f8b5b727196b448a92bff27a340b6,
+    type: 3}
+  letteraFPrefab: {fileID: 159166688546094486, guid: 26062a58936cc9d4c89a659a86bb9be9,
+    type: 3}
+  hitPointAPrefab: {fileID: 4023095667180159900, guid: 3db3c244ae13c6a44b0ea5149c48d734,
+    type: 3}
+  hitPointSPrefab: {fileID: 1542592056069814520, guid: 16a76804ef0e96243b440b1c77d7fe57,
+    type: 3}
+  hitPointDPrefab: {fileID: 8459827692436916667, guid: 37dff8afe8978b44fb7ed888b6bc88d5,
+    type: 3}
+  hitPointFPrefab: {fileID: 7614010434775750415, guid: 168d54910e10d3c40849ca053bd3a5a8,
+    type: 3}
+  secondiSpawnLettere: 2

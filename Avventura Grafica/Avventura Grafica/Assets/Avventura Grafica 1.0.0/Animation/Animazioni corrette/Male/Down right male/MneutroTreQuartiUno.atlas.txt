@@ -1,0 +1,250 @@
+
+MneutroTreQuartiUno.png
+size: 2040,1902
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pigiama/braccio dx
+  rotate: false
+  xy: 630, 440
+  size: 240, 907
+  orig: 240, 907
+  offset: 0, 0
+  index: -1
+pigiama/corpo
+  rotate: false
+  xy: 1215, 337
+  size: 337, 889
+  orig: 337, 889
+  offset: 0, 0
+  index: -1
+pigiama/gamba dx 1
+  rotate: false
+  xy: 582, 1363
+  size: 163, 537
+  orig: 163, 537
+  offset: 0, 0
+  index: -1
+pigiama/gamba dx 2
+  rotate: false
+  xy: 2, 783
+  size: 282, 707
+  orig: 282, 708
+  offset: 0, 0
+  index: -1
+pigiama/gamba sx 1
+  rotate: false
+  xy: 747, 1349
+  size: 153, 551
+  orig: 154, 551
+  offset: 1, 0
+  index: -1
+pigiama/gamba sx 2
+  rotate: false
+  xy: 1398, 1228
+  size: 225, 672
+  orig: 226, 672
+  offset: 0, 0
+  index: -1
+sagra/braccio dx
+  rotate: false
+  xy: 1554, 313
+  size: 212, 909
+  orig: 226, 915
+  offset: 14, 0
+  index: -1
+sagra/braccio sx
+  rotate: false
+  xy: 1867, 938
+  size: 171, 962
+  orig: 233, 977
+  offset: 0, 15
+  index: -1
+sagra/corpo
+  rotate: false
+  xy: 872, 360
+  size: 341, 876
+  orig: 343, 877
+  offset: 1, 1
+  index: -1
+standard/braccio dx
+  rotate: false
+  xy: 1768, 2
+  size: 237, 934
+  orig: 239, 936
+  offset: 1, 1
+  index: -1
+uni/braccio dx
+  rotate: false
+  xy: 1768, 2
+  size: 237, 934
+  orig: 239, 936
+  offset: 1, 1
+  index: -1
+standard/corpo
+  rotate: false
+  xy: 286, 487
+  size: 342, 874
+  orig: 345, 876
+  offset: 1, 1
+  index: -1
+uni/corpo
+  rotate: false
+  xy: 286, 487
+  size: 342, 874
+  orig: 345, 876
+  offset: 1, 1
+  index: -1
+standard/gamba dx 1
+  rotate: false
+  xy: 290, 1384
+  size: 148, 516
+  orig: 150, 518
+  offset: 1, 1
+  index: -1
+sagra/gamba dx 1
+  rotate: false
+  xy: 290, 1384
+  size: 148, 516
+  orig: 150, 518
+  offset: 1, 1
+  index: -1
+uni/gamba dx 1
+  rotate: false
+  xy: 290, 1384
+  size: 148, 516
+  orig: 150, 518
+  offset: 1, 1
+  index: -1
+standard/gamba dx 2
+  rotate: false
+  xy: 1625, 1224
+  size: 240, 676
+  orig: 242, 678
+  offset: 1, 1
+  index: -1
+sagra/gamba dx 2
+  rotate: false
+  xy: 1625, 1224
+  size: 240, 676
+  orig: 242, 678
+  offset: 1, 1
+  index: -1
+uni/gamba dx 2
+  rotate: false
+  xy: 1625, 1224
+  size: 240, 676
+  orig: 242, 678
+  offset: 1, 1
+  index: -1
+standard/gamba sx 1
+  rotate: false
+  xy: 440, 1366
+  size: 140, 534
+  orig: 238, 843
+  offset: 1, 308
+  index: -1
+sagra/gamba sx 1
+  rotate: false
+  xy: 440, 1366
+  size: 140, 534
+  orig: 238, 843
+  offset: 1, 308
+  index: -1
+uni/gamba sx 1
+  rotate: false
+  xy: 440, 1366
+  size: 140, 534
+  orig: 238, 843
+  offset: 1, 308
+  index: -1
+standard/gamba sx 2
+  rotate: false
+  xy: 902, 1262
+  size: 176, 638
+  orig: 260, 640
+  offset: 1, 1
+  index: -1
+sagra/gamba sx 2
+  rotate: false
+  xy: 902, 1262
+  size: 176, 638
+  orig: 260, 640
+  offset: 1, 1
+  index: -1
+uni/gamba sx 2
+  rotate: false
+  xy: 902, 1262
+  size: 176, 638
+  orig: 260, 640
+  offset: 1, 1
+  index: -1
+uni/borsa
+  rotate: false
+  xy: 2, 1492
+  size: 286, 408
+  orig: 288, 410
+  offset: 1, 1
+  index: -1
+uni/cinta borsa
+  rotate: false
+  xy: 1080, 1238
+  size: 316, 662
+  orig: 316, 662
+  offset: 0, 0
+  index: -1
+
+MneutroTreQuartiUno2.png
+size: 1465,1395
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pigiama/braccio sx
+  rotate: false
+  xy: 1241, 452
+  size: 222, 941
+  orig: 223, 958
+  offset: 1, 15
+  index: -1
+pigiama/testa
+  rotate: false
+  xy: 495, 2
+  size: 491, 1391
+  orig: 493, 1393
+  offset: 1, 1
+  index: -1
+standard/braccio sx
+  rotate: false
+  xy: 988, 414
+  size: 251, 979
+  orig: 253, 996
+  offset: 1, 16
+  index: -1
+uni/braccio sx
+  rotate: false
+  xy: 988, 414
+  size: 251, 979
+  orig: 253, 996
+  offset: 1, 16
+  index: -1
+standard/testa
+  rotate: false
+  xy: 2, 2
+  size: 491, 1391
+  orig: 493, 1393
+  offset: 1, 1
+  index: -1
+sagra/testa
+  rotate: false
+  xy: 2, 2
+  size: 491, 1391
+  orig: 493, 1393
+  offset: 1, 1
+  index: -1
+uni/testa
+  rotate: false
+  xy: 2, 2
+  size: 491, 1391
+  orig: 493, 1393
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,250 @@
+
+MneutraRetroDivisa.png
+size: 1965,1586
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pigiama/braccio dx
+  rotate: false
+  xy: 1547, 2
+  size: 274, 921
+  orig: 292, 929
+  offset: 18, 0
+  index: -1
+pigiama/corpo
+  rotate: false
+  xy: 1181, 54
+  size: 364, 874
+  orig: 364, 874
+  offset: 0, 0
+  index: -1
+pigiama/gamba dx 1
+  rotate: false
+  xy: 1652, 928
+  size: 165, 656
+  orig: 166, 656
+  offset: 0, 0
+  index: -1
+pigiama/gamba dx 2
+  rotate: false
+  xy: 1304, 931
+  size: 176, 653
+  orig: 176, 653
+  offset: 0, 0
+  index: -1
+pigiama/gamba sx 1
+  rotate: false
+  xy: 984, 938
+  size: 170, 646
+  orig: 170, 648
+  offset: 0, 1
+  index: -1
+pigiama/gamba sx 2
+  rotate: false
+  xy: 2, 427
+  size: 183, 664
+  orig: 183, 664
+  offset: 0, 0
+  index: -1
+sagra/corpo
+  rotate: false
+  xy: 815, 64
+  size: 364, 872
+  orig: 364, 873
+  offset: 0, 0
+  index: -1
+standard/braccio dx
+  rotate: false
+  xy: 187, 147
+  size: 260, 944
+  orig: 262, 946
+  offset: 1, 1
+  index: -1
+uni/braccio dx
+  rotate: false
+  xy: 187, 147
+  size: 260, 944
+  orig: 262, 946
+  offset: 1, 1
+  index: -1
+standard/corpo
+  rotate: false
+  xy: 449, 136
+  size: 364, 872
+  orig: 367, 875
+  offset: 2, 1
+  index: -1
+uni/corpo
+  rotate: false
+  xy: 449, 136
+  size: 364, 872
+  orig: 367, 875
+  offset: 2, 1
+  index: -1
+standard/gamba dx 1
+  rotate: false
+  xy: 1482, 930
+  size: 168, 654
+  orig: 168, 654
+  offset: 0, 0
+  index: -1
+sagra/gamba dx 1
+  rotate: false
+  xy: 1482, 930
+  size: 168, 654
+  orig: 168, 654
+  offset: 0, 0
+  index: -1
+uni/gamba dx 1
+  rotate: false
+  xy: 1482, 930
+  size: 168, 654
+  orig: 168, 654
+  offset: 0, 0
+  index: -1
+standard/gamba dx 2
+  rotate: false
+  xy: 1819, 925
+  size: 144, 659
+  orig: 144, 659
+  offset: 0, 0
+  index: -1
+sagra/gamba dx 2
+  rotate: false
+  xy: 1819, 925
+  size: 144, 659
+  orig: 144, 659
+  offset: 0, 0
+  index: -1
+uni/gamba dx 2
+  rotate: false
+  xy: 1819, 925
+  size: 144, 659
+  orig: 144, 659
+  offset: 0, 0
+  index: -1
+standard/gamba sx 1
+  rotate: false
+  xy: 831, 939
+  size: 151, 645
+  orig: 152, 646
+  offset: 1, 1
+  index: -1
+sagra/gamba sx 1
+  rotate: false
+  xy: 831, 939
+  size: 151, 645
+  orig: 152, 646
+  offset: 1, 1
+  index: -1
+uni/gamba sx 1
+  rotate: false
+  xy: 831, 939
+  size: 151, 645
+  orig: 152, 646
+  offset: 1, 1
+  index: -1
+standard/gamba sx 2
+  rotate: false
+  xy: 1156, 938
+  size: 146, 646
+  orig: 146, 659
+  offset: 0, 0
+  index: -1
+sagra/gamba sx 2
+  rotate: false
+  xy: 1156, 938
+  size: 146, 646
+  orig: 146, 659
+  offset: 0, 0
+  index: -1
+uni/gamba sx 2
+  rotate: false
+  xy: 1156, 938
+  size: 146, 646
+  orig: 146, 659
+  offset: 0, 0
+  index: -1
+standard/testa
+  rotate: false
+  xy: 152, 1093
+  size: 303, 491
+  orig: 305, 493
+  offset: 1, 1
+  index: -1
+pigiama/testa
+  rotate: false
+  xy: 152, 1093
+  size: 303, 491
+  orig: 305, 493
+  offset: 1, 1
+  index: -1
+sagra/testa
+  rotate: false
+  xy: 152, 1093
+  size: 303, 491
+  orig: 305, 493
+  offset: 1, 1
+  index: -1
+uni/testa
+  rotate: false
+  xy: 152, 1093
+  size: 303, 491
+  orig: 305, 493
+  offset: 1, 1
+  index: -1
+uni/borsa
+  rotate: false
+  xy: 2, 1146
+  size: 148, 438
+  orig: 148, 438
+  offset: 0, 0
+  index: -1
+uni/cinta borsa
+  rotate: false
+  xy: 457, 1010
+  size: 372, 574
+  orig: 372, 588
+  offset: 0, 14
+  index: -1
+
+MneutraRetroDivisa2.png
+size: 956,965
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pigiama/braccio sx
+  rotate: false
+  xy: 726, 2
+  size: 228, 961
+  orig: 228, 962
+  offset: 0, 0
+  index: -1
+sagra/braccio dx
+  rotate: false
+  xy: 2, 19
+  size: 260, 944
+  orig: 260, 944
+  offset: 0, 0
+  index: -1
+sagra/braccio sx
+  rotate: false
+  xy: 495, 8
+  size: 229, 955
+  orig: 230, 956
+  offset: 0, 0
+  index: -1
+standard/braccio sx
+  rotate: false
+  xy: 264, 8
+  size: 229, 955
+  orig: 232, 958
+  offset: 1, 1
+  index: -1
+uni/braccio sx
+  rotate: false
+  xy: 264, 8
+  size: 229, 955
+  orig: 232, 958
+  offset: 1, 1
+  index: -1
